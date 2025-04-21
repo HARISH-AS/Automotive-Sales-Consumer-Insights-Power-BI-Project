@@ -103,9 +103,3 @@ The project integrates data from:
 - **Car_SupplyChainManagement:** Includes car maker, model, year, price, city, country code, and credit card details.
 
 ---
-
-## Getting Started
-
-```bash
-# Clone the repository
-git clone <repository-url>
